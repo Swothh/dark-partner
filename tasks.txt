@@ -1,0 +1,14 @@
+- p kabul ederken diller kullanıcı diline göre ayarlanıyor sunucu diline göre değil onu fixle. satir 74
+
+- p texte max link ekle
+- yeni kategoiler eklenecek
+
+- Partner code refresh yapılacak.
+
+- kasalar satılacak, alınacak
+- topluluk pazarı
+
+- partner sohbet partner logda "sohbet et" butonu olacak ve oradan sunucuyla sohbet edecekler
+- requestler sıfırlanacak intervalle
+- nlp ile eğer 3'ten fazla küfür edildiyse status 2'ye alınacak ve yetkililer kontrol edecek.
+- her requestin bir idsi olacak, idlerden işlemlere bakılabilecek https://prnt.sc/t07vw_QsHqhc

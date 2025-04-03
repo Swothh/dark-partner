@@ -1,0 +1,53 @@
+{
+    "name": "dark-partner",
+    "version": "6.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node ./src/shard.ts",
+        "test": "ts-node index.spec.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Swothh/dark-partner.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Swothh/dark-partner/issues"
+    },
+    "homepage": "https://github.com/Swothh/dark-partner#readme",
+    "devDependencies": {
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.4"
+    },
+    "dependencies": {
+        "@noble/ed25519": "^1.7.3",
+        "@sentry/node": "^7.53.1",
+        "@top-gg/sdk": "^3.1.6",
+        "@types/express": "^4.17.21",
+        "axios": "^1.6.2",
+        "canvas": "^2.11.2",
+        "canvas-table": "^0.3.0",
+        "captcha-canvas": "^3.2.1",
+        "chalk": "4.1.2",
+        "chart.js-image": "^6.1.3",
+        "discord.js": "^14.13.0",
+        "easy-blackjack": "^1.0.1",
+        "events": "^3.3.0",
+        "express": "^4.18.2",
+        "glob": "^10.2.6",
+        "gray-matter": "^4.0.3",
+        "http": "^0.0.1-security",
+        "moment": "^2.29.4",
+        "moment-duration-format": "^2.3.2",
+        "mongoose": "^7.2.1",
+        "nanoid": "3.3.6",
+        "node-nlp": "^4.27.0",
+        "socket.io": "^4.7.2",
+        "socket.io-client": "^4.7.2",
+        "strip-ansi": "^7.1.0",
+        "util": "^0.12.5"
+    }
+}

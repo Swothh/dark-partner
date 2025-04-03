@@ -1,0 +1,23 @@
+export default {
+    timeout: 'https://media.discordapp.net/attachments/1112377437658026034/1112378854879809547/clock_1.png',
+    success: 'https://media.discordapp.net/attachments/1112377437658026034/1112406752445607987/check.png',
+    error: 'https://media.discordapp.net/attachments/1112377437658026034/1112406752722419772/cross.png',
+    paint: 'https://media.discordapp.net/attachments/1112377437658026034/1114475506650325002/art-and-design.png',
+    category: 'https://media.discordapp.net/attachments/1112377437658026034/1118601269691556081/apps.png',
+    permissions: 'https://media.discordapp.net/attachments/1112377437658026034/1118625810643947560/stamp.png',
+    info: 'https://media.discordapp.net/attachments/1112377437658026034/1121809379457511515/189664.png',
+    info_2: 'https://media.discordapp.net/attachments/1112377437658026034/1125543819740446750/info.png',
+    crystal: 'https://media.discordapp.net/attachments/1112377437658026034/1135221025525731388/crystal.png',
+    warning: 'https://media.discordapp.net/attachments/1157781287566848082/1165381998081233077/warning.png',
+    shop: 'https://media.discordapp.net/attachments/1157781287566848082/1167960707065720922/store.png',
+    case: 'https://media.discordapp.net/attachments/1157781287566848082/1168332466562543636/treasure.png',
+    page: 'https://cdn-icons-png.flaticon.com/512/7407/7407914.png',
+    language: 'https://media.discordapp.net/attachments/1144006446854439044/1174084416696483860/languages.png',
+    coin: 'https://media.discordapp.net/attachments/1144592354884464761/1180613550587261010/coin.png',
+    time: 'https://media.discordapp.net/attachments/1144591831452106752/1188257896773984256/clock.png',
+    task_1: 'https://media.discordapp.net/attachments/1144592354884464761/1188474776143020103/1051235745660153966_1.png',
+    task_2: 'https://media.discordapp.net/attachments/1144592354884464761/1188474775710990548/1051235749938331720_1_kopya.png',
+    task_3: 'https://media.discordapp.net/attachments/1144592354884464761/1188474775929114664/1051235749938331720_1.png',
+    guild_case: 'https://media.discordapp.net/attachments/1176206897045569738/1191103314729893888/bank.png',
+    guild_case_2: 'https://media.discordapp.net/attachments/1176206897045569738/1191326858806050916/bank_1.png'
+};

@@ -1,0 +1,21 @@
+export default {
+    partner_text_min: 60,
+    partner_text_max: 1536,
+    partner_must_max: 250000,
+    author: 256,
+    author_min: 2,
+    botlist_pin_min: 2,
+    botlist_pin_max: 100,
+    botlist_input_bot_id_min: 17,
+    botlist_input_prefix_max: 5,
+    botlist_reject_min: 10,
+    botlist_reject_max: 256,
+    shop_buy_amount_min: 1,
+    shop_buy_amount_max: 100,
+    special_url_min: 3,
+    special_url_max: 15,
+    pay_min: 2,
+    pay_max: 6500,
+    cf_max: 1000,
+    guild_prefix_max: 3
+};
