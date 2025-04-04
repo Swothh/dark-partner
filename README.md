@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.ibb.co/DfKb26Xt/dp.png">
+    <img src="https://i.ibb.co/23Mc1vz4/dp2.png">
 </div>
 
 # 🤖 Dark Partner
