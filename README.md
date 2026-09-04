@@ -28,5 +28,5 @@
 
 <div align="center">
     <h1>⭐ Star</h1>
-    <p>developed with ❤️ by L and S for over 3 years</p>
+    <p>developed for over 3 years</p>
 </div>
